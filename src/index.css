@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: tahoma;
+  background: linear-gradient(to left, rgba(7,37,79,1) 0%, rgba(0,128,100,1) 100%); /* w3c */
+}
